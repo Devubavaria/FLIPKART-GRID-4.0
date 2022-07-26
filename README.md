@@ -36,3 +36,8 @@ The second model is the one used to find trending products. This is done by assi
 <ul><li>No of sites referring this product</li></ul>
 <ul><li>Comments/Reviews</li></ul>
 </li></ul>
+
+
+# DATASETS
+Scraped Data(till today): https://drive.google.com/drive/u/1/folders/134GDKE7i0MdBYcIyab3mKH6LdxFl-ci0
+Processed Scraped Data: https://drive.google.com/drive/u/1/folders/134GDKE7i0MdBYcIyab3mKH6LdxFl-ci0
