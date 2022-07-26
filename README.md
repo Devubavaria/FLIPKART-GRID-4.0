@@ -1,4 +1,4 @@
-# FLIPKART-GRID-4.0
+# FLIPKART-GRID 4.0
 EXTRACT TRENDS FROM SOCIAL MEDIA
 
 ## INTRODUCTION
@@ -41,3 +41,10 @@ The second model is the one used to find trending products. This is done by assi
 ## DATASETS
 Scraped Data(till today):https://drive.google.com/drive/u/1/folders/134GDKE7i0MdBYcIyab3mKH6LdxFl-ci0<br><br>
 Processed Scraped Data:https://drive.google.com/drive/u/1/folders/134GDKE7i0MdBYcIyab3mKH6LdxFl-ci0
+
+## MODEL FILES
+Model for predicting Trendiness: https://drive.google.com/file/d/1092MDfexBLnap2q9ijxvEG-GmBfw9my2/view?usp=sharing<br>
+
+Model for predicting Color and Type of garment from image : https://drive.google.com/file/d/1092MDfexBLnap2q9ijxvEG-GmBfw9my2/view?usp=sharing<br>
+
+(Supporting Binary File ): https://drive.google.com/file/d/1-6_5lyHXmDrhEvjJpdQh8jjyXoX-Gvv2/view?usp=sharing
