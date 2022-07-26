@@ -38,7 +38,7 @@ The second model is used to find the trending products. This is done by assignin
 </li></ul>
 
 ### MAPPING
-The trending images from database along with the extracted keywords with Flipkart category, sub category, vertical and product attribute, search page links are  mapped to flipkart products.
+The trending images from database along with the extracted keywords with Flipkart category, sub category, vertical and product attribute, search page links are  mapped to flipkart products which are displayed as output.
 
 ## DATASETS
 Scraped Data(till today):https://drive.google.com/drive/u/1/folders/134GDKE7i0MdBYcIyab3mKH6LdxFl-ci0<br><br>
