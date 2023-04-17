@@ -2,7 +2,7 @@
 EXTRACT TRENDS FROM SOCIAL MEDIA
 
 ## INTRODUCTION
-This system is developed by Devanshi Bavaria and Dhruv Shah as part of Flipkart Grid 2022. The aim of this system is to help fashion retailers in identifying trend-setting and best selling products on Flipkart webiste.
+This system is developed by Devanshi Bavaria and Dhruv Shah as part of Flipkart Grid 2022. The aim of this system is to help fashion retailers in identifying trend-setting and best selling products on Flipkart website.
 
 ## DESIGN
 This system is broken down into 3 important parts:
